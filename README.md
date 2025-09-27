@@ -1,3 +1,9 @@
+---
+title: multimodal-rag-system
+app_file: main.py
+sdk: gradio
+sdk_version: 5.47.2
+---
 # 🦙 multimodal-rag-system
 
 A **Retrieval-Augmented Generation (RAG) system** for answering questions grounded in your PDF documents, powered by [LangChain](https://python.langchain.com/), [ChromaDB](https://www.trychroma.com/), and [Gradio](https://gradio.app/).
