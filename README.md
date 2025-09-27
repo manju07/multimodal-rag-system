@@ -1,6 +1,6 @@
 ---
 title: multimodal-rag-system
-app_file: main.py
+app_file: app.py
 sdk: gradio
 sdk_version: 5.47.2
 ---
@@ -23,7 +23,8 @@ A **Retrieval-Augmented Generation (RAG) system** for answering questions ground
 
 ## 🖥️ Demo
 
-![Gradio UI Screenshot](https://raw.githubusercontent.com/manju07/multimodal-rag-system/main/assets/demo_screenshot.png)
+![Gradio UI Screenshot](https://github.com/manju07/multimodal-rag-system/raw/main/multimodal-rag-system-output.png)
+
 
 ---
 
