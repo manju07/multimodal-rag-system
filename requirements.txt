@@ -11,3 +11,6 @@ openai
 openai-agents
 markdown  # markdown module
 gradio
+sentence_transformers
+sentence-transformers
+numpy
