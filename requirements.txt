@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+jupyter
+pypdf
+pymupdf
+sentence-transformers  # embedding model
+faiss-cpu # for vector DB
+chromadb # for vector DB
+openai
+openai-agents
+markdown  # markdown module
+gradio
