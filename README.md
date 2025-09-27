@@ -25,6 +25,8 @@ A **Retrieval-Augmented Generation (RAG) system** for answering questions ground
 
 ![Gradio UI Screenshot](https://github.com/manju07/multimodal-rag-system/blob/main/multimodal-rag-system-ouput.png)
 
+[**Live Demo on Hugging Face Spaces** 🚀](https://huggingface.co/spaces/manju0707/multimodal-rag-system)
+
 
 ---
 
